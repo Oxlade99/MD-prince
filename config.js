@@ -22,9 +22,9 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['918590565968','919446652312'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.owner = ['918590565968','2349025346468'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
 global.pemilik = ['918590565968'] //another owner number
-global.premium = ['918590565968'] //premium number
+global.premium = ['2349025346468'] //premium number
 global.pengguna = 'prince' //username
 global.botnma = 'MD-prince' //bot name
 global.ownernma = 'prince ser' //owner name
@@ -37,7 +37,7 @@ global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner',
+    owner: 'This Feature Is Only For OXLADE',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
